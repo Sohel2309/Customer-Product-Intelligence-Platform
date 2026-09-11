@@ -1,0 +1,5 @@
+stage,stage_order,estimated_users,drop_off,conversion_from_previous_pct,conversion_from_start_pct,is_simulated,methodology
+View Item (Simulated),1,148950,,,100.0,True,"SIMULATED - backed out from generic industry-average e-commerce conversion benchmarks, not measured from this dataset (no clickstream data exists in this schema)"
+Add to Cart (Simulated),2,42600,106350.0,28.6,28.6,True,"SIMULATED - backed out from generic industry-average e-commerce conversion benchmarks, not measured from this dataset (no clickstream data exists in this schema)"
+Checkout (Simulated),3,23350,19250.0,54.81,15.68,True,"SIMULATED - backed out from generic industry-average e-commerce conversion benchmarks, not measured from this dataset (no clickstream data exists in this schema)"
+"Purchase (Real, Anchor Point)",4,17802,5548.0,76.24,11.95,True,REAL - matches the 'Kept (Not Returned)' stage of funnel_fulfillment.csv

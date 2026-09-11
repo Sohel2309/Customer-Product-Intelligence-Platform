@@ -1,0 +1,5 @@
+stage,stage_order,orders,drop_off,conversion_from_previous_pct,conversion_from_start_pct,is_simulated
+Orders Placed,1,21629,,,100.0,False
+Payment Successful,2,21141,488.0,97.74,97.74,False
+Delivered,3,20642,499.0,97.64,95.44,False
+Kept (Not Returned),4,17802,2840.0,86.24,82.31,False
